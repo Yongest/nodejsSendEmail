@@ -1,2 +1,2 @@
-# nodejsSendEmail
-使用nodejs 发送邮件
+# sendEmail
+使用nodeJs发送邮件
